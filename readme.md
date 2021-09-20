@@ -18,7 +18,7 @@ Authorized with jsonwebtoken and Validated with joi.
 - block user
 - block blog
 
-### user controls
+### User controls
 - signUp
 - signIn
 - update profile
